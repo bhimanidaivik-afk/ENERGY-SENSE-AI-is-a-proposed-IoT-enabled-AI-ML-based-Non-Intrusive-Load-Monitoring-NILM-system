@@ -1,0 +1,17 @@
+{
+  "fridge": {
+    "MAE (W)": 23.8,
+    "F1": 0.73,
+    "Energy error (%)": 17.8
+  },
+  "kettle": {
+    "MAE (W)": 10.6,
+    "F1": 0.79,
+    "Energy error (%)": 20.2
+  },
+  "microwave": {
+    "MAE (W)": 8.9,
+    "F1": 0.36,
+    "Energy error (%)": 0.7
+  }
+}

@@ -1,0 +1,1 @@
+print("NILM project shuru!")

@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+ENV/
+env/
+
+# Large Datasets / HDF5 files (>100MB)
+*.h5
+*.hdf5
+data/ukdale/
+ukdale.h5
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code & IDE files
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
